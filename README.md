@@ -5,7 +5,7 @@
 
 <br>
 
-![Resultado final do projeto](https://github.com/FernandoAz89/GamerZone/blob/main/GamerZone%20_gif.gif)
+![Resultado final do projeto](https://github.com/FernandoAz89/GamerZone/blob/main/image/home.png)
 
 ## 📝 Descrição 
 
