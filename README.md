@@ -5,7 +5,7 @@
 
 <br>
 
-![Resultado final do projeto](https://github.com/FernandoAz89/GamerZone/blob/main/GamerZone%20-%20Google%20Chrome%20-%2015%20May%202022.mp4)
+![Resultado final do projeto](https://github.com/FernandoAz89/GamerZone/blob/main/GamerZone%20_gif.gif)
 
 ## 📝 Descrição 
 
